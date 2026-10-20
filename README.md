@@ -3313,6 +3313,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🔒 <a name="security"></a>Security
 
+- [attest](https://attest.rta.lat) `https://attest.rta.lat/mcp`
+  🔓 - Verifies an artifact an AI agent produced (JSON, code, structured output) against a JSON Schema plus positional prompt-injection checks, returning a verdict with reasons before you accept the result. Free tier 20 checks/day, $0.005 per check over x402.
 - [AffixIO](https://www.affix-io.com) `https://www.affix-io.com/mcp/`
   [![AffixIO MCP connector](https://glama.ai/mcp/connectors/com.affix-io/affix-io/badges/score.svg)](https://glama.ai/mcp/connectors/com.affix-io/affix-io)
   🔐 - Generate and verify zero-knowledge proofs with post-quantum attestations, without exposing personal data.
